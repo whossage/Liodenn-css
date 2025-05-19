@@ -1,5 +1,5 @@
 .navbar {
-  background: rgba(253, 221, 216, 0.7) !important; 
+  background: rgba(253, 221, 216, 0.93) !important; 
   border: none !important;
   border-radius: 12px;
   box-shadow: 0 0 8px rgba(255, 255, 255, 0.25); 
@@ -7,12 +7,12 @@
 }
 
 .navbar li a {
-  color: #7B3F46 !important; 
+  color: #7B3F46 !important;
   transition: background 0.3s ease, color 0.3s ease;
 }
 
 .navbar li a:hover {
-  background: rgba(255, 240, 240, 0.5) !important; 
-  color: #3E1F22 !important; 
+  background: rgba(255, 240, 240, 0.8) !important; 
+  color: #3E1F22 !important;
   border-radius: 8px;
 }
