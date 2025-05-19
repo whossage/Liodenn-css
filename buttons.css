@@ -1,0 +1,21 @@
+input[type="submit"],
+input[type="button"],
+button,
+.button {
+  background: rgba(255, 200, 210, 0.8) !important;
+  color: rgba(85, 40, 60, 0.95) !important;
+  border: 1px solid rgba(200, 120, 140, 0.9) !important;
+  border-radius: 6px !important;
+  padding: 6px 12px !important;
+  font-weight: bold !important;
+  transition: 0.2s ease-in-out !important;
+}
+
+input[type="submit"]:hover,
+input[type="button"]:hover,
+button:hover,
+.button:hover {
+  background: rgba(255, 170, 190, 0.9) !important;
+  cursor: pointer !important;
+  color: rgba(70, 30, 50, 0.95) !important;
+}
