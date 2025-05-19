@@ -1,0 +1,15 @@
+.table h1, .table h2, .table h3,
+h1, h2, h3, h4, h5, h6,
+h1.center, h2.center, h3.center,
+.sidebar h3, .feature h2, .feature h3 {
+  color: rgba(125, 80, 87, 1) !important;
+}
+
+.feature a, .feature b, .feature h2, .feature h3,
+div.left a, div.left b, div.left h2, div.left h3 {
+  color: rgba(125, 80, 87, 1) !important;
+}
+
+.sidebar a, .sidebar a:visited, .sidebar a:hover {
+  color: rgba(125, 80, 87, 1) !important;
+}
