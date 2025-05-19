@@ -1,0 +1,14 @@
+.progress {
+  background: rgba(255, 240, 245, 0.5) !important; 
+  border: 1px solid rgba(183, 109, 132, 0.6) !important;
+  height: 14px !important;
+  border-radius: 6px !important;
+  overflow: hidden !important;
+}
+
+.progress-bar {
+  background: rgba(255, 180, 200, 0.9) !important; 
+  color: #fff !important;
+  font-weight: bold !important;
+  text-shadow: 1px 1px 2px rgba(90, 40, 60, 0.3);
+}
