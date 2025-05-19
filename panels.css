@@ -1,0 +1,15 @@
+.col-md-9.col-xs-12 {
+  background: rgba(253, 221, 216, 0.8) !important; /* Light translucent pink */
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.5); /* Soft white glow */
+  padding: 10px;
+  border: none !important;
+}
+
+div.container.main {
+  background: rgba(253, 221, 216, 0.1) !important; /* Fainter pink to blend */
+  border-radius: 20px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.4);
+  padding: 15px;
+  border: none !important;
+}
