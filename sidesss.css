@@ -1,19 +1,19 @@
 .breadcrumb {
-  background: rgba(245, 194, 188, 0.95) !important;
+  background: rgba(236, 193, 187, 0.8) !important;
   color: #5A2A38 !important;
   border: 1px solid rgba(255, 255, 255, 0.25) !important;
   border-radius: 8px;
 }
 
 .feature {
-  background: rgba(245, 194, 188, 0.95) !important;
+  background: rgba(236, 193, 187, 0.8) !important;
   color: #5A2A38 !important;
   border: 1px solid rgba(255, 255, 255, 0.25) !important;
   border-radius: 10px;
 }
 
 .topbar {
-  background: rgba(245, 194, 188, 0.98) !important;
+  background: rgba(236, 193, 187, 0.85) !important;
   color: #3E1F22 !important;
   border-top: none !important;
   border-bottom: 3px solid rgba(255, 255, 255, 0.3) !important;
@@ -21,7 +21,7 @@
 }
 
 .sidebar {
-  background: rgba(245, 194, 188, 0.92) !important;
+  background: rgba(236, 193, 187, 0.85) !important;
   color: #5A2A38 !important;
   border: none !important;
   border-radius: 12px;
@@ -36,7 +36,7 @@
 }
 
 .chat_light {
-  background: rgba(245, 194, 188, 0.92) !important;
+  background: rgba(236, 193, 187, 0.8) !important;
   color: #5A2A38 !important;
   border: 1px solid rgba(255, 255, 255, 0.25) !important;
   text-align: center !important;
@@ -44,7 +44,7 @@
 }
 
 .chat_dark {
-  background: rgba(245, 194, 188, 0.85) !important;
+  background: rgba(236, 193, 187, 0.75) !important;
   color: #5A2A38 !important;
   border: 1px solid rgba(255, 255, 255, 0.2) !important;
   text-align: center !important;
