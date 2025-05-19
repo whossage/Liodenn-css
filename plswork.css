@@ -1,0 +1,26 @@
+.chat_light {
+  background-color: rgba(249, 217, 223, 1) !important; 
+  color: rgba(183, 109, 132, 1) !important; 
+}
+
+.chat_dark {
+  background-color: rgba(241, 191, 201, 1) !important; 
+  color: rgba(183, 109, 132, 1) !important;
+}
+
+
+.chat_message span,
+.chat_message i,
+.chat_light span,
+.chat_dark span,
+.chat_message {
+  color: rgba(183, 109, 132, 1) !important;
+}
+
+
+textarea,
+input[type="text"] {
+  border: 2px solid rgba(183, 109, 132, 0.85) !important; 
+  background-color: rgba(255, 240, 244, 0.8) !important;  
+  color: rgba(183, 109, 132, 1) !important;
+}
