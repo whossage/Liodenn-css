@@ -1,0 +1,16 @@
+.col-md-9.col-xs-12 {
+  background: rgba(253, 221, 216, 0.8) !important;
+  border-radius: 15px;
+  box-shadow: 0 0 8px rgba(255, 255, 255, 0.25); 
+  padding: 10px;
+  border: none !important;
+}
+
+
+div.container.main {
+  background: rgba(253, 221, 216, 0.1) !important;
+  border-radius: 20px;
+  box-shadow: 0 0 12px rgba(255, 255, 255, 0.2); 
+  padding: 15px;
+  border: none !important;
+}
