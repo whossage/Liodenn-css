@@ -1,27 +1,27 @@
 .breadcrumb {
-  background: rgba(253, 221, 216, 0.9) !important;
+  background: rgba(245, 194, 188, 0.95) !important;
   color: #5A2A38 !important;
-  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border: 1px solid rgba(255, 255, 255, 0.25) !important;
   border-radius: 8px;
 }
 
 .feature {
-  background: rgba(253, 221, 216, 0.9) !important;
+  background: rgba(245, 194, 188, 0.95) !important;
   color: #5A2A38 !important;
-  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border: 1px solid rgba(255, 255, 255, 0.25) !important;
   border-radius: 10px;
 }
 
 .topbar {
-  background: rgba(253, 221, 216, 0.95) !important;
+  background: rgba(245, 194, 188, 0.98) !important;
   color: #3E1F22 !important;
   border-top: none !important;
-  border-bottom: 3px solid rgba(255, 255, 255, 0.4) !important;
+  border-bottom: 3px solid rgba(255, 255, 255, 0.3) !important;
   border-radius: 0 0 12px 12px;
 }
 
 .sidebar {
-  background: rgba(253, 221, 216, 0.85) !important;
+  background: rgba(245, 194, 188, 0.92) !important;
   color: #5A2A38 !important;
   border: none !important;
   border-radius: 12px;
@@ -29,22 +29,22 @@
 }
 
 .panel {
-  background: rgba(255, 255, 255, 0.2) !important;
+  background: rgba(255, 255, 255, 0.15) !important;
   border: none !important;
-  box-shadow: 0 0 6px rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.12);
   border-radius: 10px;
 }
 
 .chat_light {
-  background: rgba(253, 221, 216, 0.85) !important;
+  background: rgba(245, 194, 188, 0.92) !important;
   color: #5A2A38 !important;
-  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border: 1px solid rgba(255, 255, 255, 0.25) !important;
   text-align: center !important;
   border-radius: 6px;
 }
 
 .chat_dark {
-  background: rgba(253, 221, 216, 0.7) !important;
+  background: rgba(245, 194, 188, 0.85) !important;
   color: #5A2A38 !important;
   border: 1px solid rgba(255, 255, 255, 0.2) !important;
   text-align: center !important;
