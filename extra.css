@@ -1,0 +1,31 @@
+.message.light {
+  background-color: rgba(255, 250, 251, 0.8) !important;
+  color: rgba(125, 80, 87, 0.9) !important; 
+}
+
+.message.dark {
+  background-color: rgba(227, 194, 199, 0.8) !important;
+  color: rgba(85, 50, 55, 0.9) !important;
+}
+
+.comment_box {
+  border: 1px solid rgba(125, 80, 87, 0.8) !important;
+}
+
+input[type="submit"],
+input[type="button"],
+button {
+  background-color: rgba(205, 152, 160, 0.8) !important;
+  color: rgba(85, 50, 55, 0.95) !important;
+  border: none !important;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: 0.3s ease;
+}
+
+input[type="submit"]:hover,
+input[type="button"]:hover,
+button:hover {
+  background-color: rgba(215, 162, 170, 0.9) !important;
+  cursor: pointer;
+}
