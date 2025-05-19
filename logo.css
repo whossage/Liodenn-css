@@ -1,0 +1,13 @@
+#header img {
+  display: none !important;
+}
+
+#header {
+  background-image: url('https://i.imgur.com/St3g5Fx.png'); 
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left center;
+  height: 120px; 
+  padding-left: 220px; 
+  position: relative;
+}
